@@ -48,7 +48,7 @@ const Heroku = require("heroku-client");
 const gptdm = process.env.GPT_INBOX || 'TRUE';
     const cmd = body.startsWith(prefix);
 //const autobio = process.env.AUTOBIO || 'TRUE';
-const botname = process.env.BOTNAME || 'Sahan';
+const botname = process.env.BOTNAME || 'Qᴜᴇᴇɴ ᴛʜᴀʀᴜ';
 const antibot = process.env.ANTIBOT || 'TRUE';
   
     const command = body.replace(prefix, "").trim().split(/ +/).shift().toLowerCase();
@@ -80,8 +80,8 @@ const antibot = process.env.ANTIBOT || 'TRUE';
     };
     const mime = (quoted.msg || quoted).mimetype || "";
             const qmsg = (quoted.msg || quoted);
-    const author = process.env.STICKER_AUTHOR ||'Sahan';
-    const packname = process.env.STICKER_PACKNAME || 'Madu';
+    const author = process.env.STICKER_AUTHOR ||'ᴋᴀɴɪꜱʜᴋᴀ_x';
+    const packname = process.env.STICKER_PACKNAME || 'Qᴜᴇᴇɴ ᴛʜᴀʀᴜ';
 const dev = process.env.DEV || '254712703241'
 
 const menu = process.env.MENU_TYPE || 'VIDEO';
@@ -340,20 +340,17 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
       switch (command) {
       case "help":
         case "menu":
-let cap = `╭════〘 𓅓Sahan BOT𓅓 〙═⊷❍
-┃𓅓╭──────────────
-┃𓅓│ Owner : Sahan
-┃𓅓│ User : ${m.pushName} 
-┃𓅓│ Platform : Linux x
-┃𓅓│ Available RAM 34GB of 1000TB
-┃𓅓│𝐕𝐞𝐫𝐬𝐢𝐨𝐧: 𝐯𝟏.𝟎.𝟏
-┃𓅓│
-┃𓅓│▎▍▌▌▉▏▎▌▉▐▏▌
-┃𓅓│▎▍▌▌▉▏▎▌▉▐▏▌
-┃𓅓│
-┃𓅓│ 𓅓 Sahan Maduwantha 𓅓
-┃𓅓│
-┃╰─────
+let cap = `╭════〘 𓅓Qᴜᴇᴇɴ ᴛʜᴀʀᴜ𓅓 〙═⊷❍
+┃𓅓╭─────────────❍
+┃𓅓│ 𝗨𝘀𝗲𝗿 : ${m.pushName} 
+┃𓅓│ 𝗨𝘀𝗲𝗿 𝗡𝗼 : ${m.pushNumber} 
+┃𓅓│ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 : 𝗞𝗮𝗻𝗶𝘀𝗵𝗸𝗮_𝘅
+┃𓅓│ 𝗢𝘄𝗻𝗲𝗿 : 𝗞𝗮𝗻𝗶𝘀𝗵𝗸𝗮 𝗗𝗲 𝗦𝗶𝗹𝘃𝗮
+┃𓅓│ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗼 : wa.me//94722477361
+┃𓅓│ 𝗥𝗮𝗺 : 64𝗚𝗕
+┃𓅓│ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 : 𝘃𝟏.𝟎.0
+┃𓅓│ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : 𝗧𝗲𝘀𝗹𝗮_𝘅
+┃𓅓╰────────
 ╰─────────────────❍
 ╭════〘 𓅓𝗢𝗪𝗡𝗘𝗥𓅓 〙════⊷❍
 ▯╭────────────···▸
@@ -362,7 +359,6 @@ let cap = `╭════〘 𓅓Sahan BOT𓅓 〙═⊷❍
 ┃𓅓│Broadcast
 ┃𓅓│Join
 ┃𓅓│Botpp
-┃𓅓│>
 ┃𓅓│Block
 ┃𓅓│Kill
 ┃𓅓│Unblock
@@ -431,7 +427,15 @@ let cap = `╭════〘 𓅓Sahan BOT𓅓 〙═⊷❍
 ┃𓅓│Hidetag
 ┃𓅓│Revoke
 ┃𓅓╰───────────────❍
-╰════════════════⊷❍`;
+╰════════════════⊷❍
+*ɢʀᴏᴜᴘ ʟɪɴᴋ⃯*
+*~_https://chat.whatsapp.com/DEPbbqIxyVx8CBILaKpg20_~*
+
+*ᴏꜰꜰɪᴄɪᴀʟ ᴡᴇʙꜱɪᴛᴇ⃯*
+*~_http://bit.ly/queen-tharu-official_~*
+
+*ᴡᴇʙꜱɪᴛᴇ⃯*
+*~_https://bit.ly/queen-tharu_~*`;
 
 if (menu === 'VIDEO') {
 
@@ -1874,8 +1878,8 @@ case "movie":
              } 
  break;
  
-          case "sahan": case "owner": case "madu": 
- client.sendMessage(m.chat, { image: { url: 'https://github.com/sahanaya2006/maduwa2006-Profile/blob/main/Picsart_23-01-31_16-42-48-970.jpg?raw=true' }, caption: `Say no more 😌 here is Sahan contact +94720797915 🥱` }, {quoted: m}); 
+          case "kanishka": case "owner": case "tharu": 
+ client.sendMessage(m.chat, { image: { url: 'https://github.com/sahanaya2006/maduwa2006-Profile/blob/main/Picsart_23-01-31_16-42-48-970.jpg?raw=true' }, caption: `ඩෝන්ට් Compire ყour ආතල් Aɴᴅ ɱყ ආතල් ყour ආතල් Uberට ආතල් ɱყ ආතල් මට ආතල් ✌️` }, {quoted: m}); 
   
  break; 
         
