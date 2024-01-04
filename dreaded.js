@@ -48,8 +48,8 @@ const Heroku = require("heroku-client");
 const gptdm = process.env.GPT_INBOX || 'TRUE';
     const cmd = body.startsWith(prefix);
 //const autobio = process.env.AUTOBIO || 'TRUE';
-const botname = process.env.BOTNAME || 'OWL AI';
-const antibot = process.env.ANTIBOT || 'FALSE';
+const botname = process.env.BOTNAME || 'Sahan';
+const antibot = process.env.ANTIBOT || 'TRUE';
   
     const command = body.replace(prefix, "").trim().split(/ +/).shift().toLowerCase();
     const args = body.trim().split(/ +/).slice(1);
@@ -80,8 +80,8 @@ const antibot = process.env.ANTIBOT || 'FALSE';
     };
     const mime = (quoted.msg || quoted).mimetype || "";
             const qmsg = (quoted.msg || quoted);
-    const author = process.env.STICKER_AUTHOR ||'AI';
-    const packname = process.env.STICKER_PACKNAME || 'OWL';
+    const author = process.env.STICKER_AUTHOR ||'Sahan';
+    const packname = process.env.STICKER_PACKNAME || 'Madu';
 const dev = process.env.DEV || '254712703241'
 
 const menu = process.env.MENU_TYPE || 'VIDEO';
@@ -344,20 +344,20 @@ let cap = `╭════〘 𓅓Sahan BOT𓅓 〙═⊷❍
 ┃𓅓╭──────────────
 ┃𓅓│ Owner : Sahan
 ┃𓅓│ User : ${m.pushName} 
-┃𓅓│ Platform : Tesla x
-┃𓅓│ Available RAM 34GB of 62GB
+┃𓅓│ Platform : Linux x
+┃𓅓│ Available RAM 34GB of 1000TB
 ┃𓅓│𝐕𝐞𝐫𝐬𝐢𝐨𝐧: 𝐯𝟏.𝟎.𝟏
 ┃𓅓│
+┃𓅓│▎▍▌▌▉▏▎▌▉▐▏▌
+┃𓅓│▎▍▌▌▉▏▎▌▉▐▏▌
 ┃𓅓│
-┃𓅓│▎▍▌▌▉▏▎▌▉▐▏▌
-┃𓅓│▎▍▌▌▉▏▎▌▉▐▏▌
 ┃𓅓│ 𓅓 Sahan Maduwantha 𓅓
 ┃𓅓│
 ┃╰─────
 ╰─────────────────❍
 ╭════〘 𓅓𝗢𝗪𝗡𝗘𝗥𓅓 〙════⊷❍
 ▯╭────────────···▸
-┴𓅓│
+𓅓│
 ┃𓅓│Admin
 ┃𓅓│Broadcast
 ┃𓅓│Join
