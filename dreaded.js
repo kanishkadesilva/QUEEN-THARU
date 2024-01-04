@@ -340,9 +340,9 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
       switch (command) {
       case "help":
         case "menu":
-let cap = `╭════〘 𓅓𝐎𝐖𝐋 𝐁𝐎𝐓𓅓 〙═⊷❍
+let cap = `╭════〘 𓅓Sahan BOT𓅓 〙═⊷❍
 ┃𓅓╭──────────────
-┃𓅓│ Owner : 𝐌𝐀𝐋𝐈𝐁𝐔
+┃𓅓│ Owner : Sahan
 ┃𓅓│ User : ${m.pushName} 
 ┃𓅓│ Platform : Tesla x
 ┃𓅓│ Available RAM 34GB of 62GB
