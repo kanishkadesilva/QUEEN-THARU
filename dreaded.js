@@ -351,7 +351,7 @@ let cap = `╭════〘 𓅓Sahan BOT𓅓 〙═⊷❍
 ┃𓅓│
 ┃𓅓│▎▍▌▌▉▏▎▌▉▐▏▌
 ┃𓅓│▎▍▌▌▉▏▎▌▉▐▏▌
-┃𓅓│ 𓅓 𝐓𝐡𝐞𝐞 𝐎𝐰𝐥 𓅓
+┃𓅓│ 𓅓 Sahan Maduwantha 𓅓
 ┃𓅓│
 ┃╰─────
 ╰─────────────────❍
@@ -388,7 +388,7 @@ let cap = `╭════〘 𓅓Sahan BOT𓅓 〙═⊷❍
 ┃𓅓│Mix
 ┃𓅓│Ai-img                                                                                                                                                                                                                                                                                     
 ┃𓅓│Gpt
-┃𓅓│Owl
+┃𓅓│Sahan
 ┃𓅓│DP
 ┃𓅓│Speed
 ┃𓅓│Alive
@@ -400,7 +400,7 @@ let cap = `╭════〘 𓅓Sahan BOT𓅓 〙═⊷❍
 ┃𓅓│Compile-c++
 ┃𓅓│Ping
 ┃𓅓│Owner
-┃𓅓│Malibu
+┃𓅓│Madu
 ┃𓅓│List
 ┃𓅓│system
 ┃𓅓│Mail
@@ -446,17 +446,17 @@ if (menu === 'VIDEO') {
 client.sendMessage(from, { text: cap}, {quoted: m})
 
 } else if (menu === 'IMAGE') {
-client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/1d0fb63c857138f5bee51.jpg' }, caption: cap, fileLength: "9999999999"}, { quoted: m })
+client.sendMessage(m.chat, { image: { url: 'https://github.com/sahanaya2006/maduwa2006-Profile/blob/main/Picsart_23-01-31_16-42-48-970.jpg?raw=true' }, caption: cap, fileLength: "9999999999"}, { quoted: m })
 } else if (menu === 'LINK') {
 client.sendMessage(m.chat, {
                         text: cap,
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: true,
-                                title: `𝐎𝐖𝐋 𝐀𝐈`,
+                                title: `Sahan`,
                                 body: `${runtime(process.uptime())}`,
                                 thumbnail: fs.readFileSync('./owl-ai.jpg'),
-                                sourceUrl: 'https://wa.me/254743551416?text=ʜᴇʟʟᴏ+𝐌𝐀𝐋𝐈𝐁𝐔+Nihostie+Bot+Mkuu+🥲',
+                                sourceUrl: 'https://wa.me/+94720797915',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
                             }
@@ -620,7 +620,7 @@ const rel = await quote(xf, pushname, pppuser)
                 
                 client.sendImageAsSticker(m.chat, rel.result, m, {
                     packname: pushname,
-                    author: `OwlAiBot`
+                    author: `Sahan`
                 })
 
 } catch (errr) { 
@@ -1874,8 +1874,8 @@ case "movie":
              } 
  break;
  
-          case "owl": case "owner": case "malibu": 
- client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/38bea6cbdfdde7efc95d7.jpg' }, caption: `Say no more 😌 here is 𝐌𝐀𝐋𝐈𝐁𝐔 contact +254712703241 🥱` }, {quoted: m}); 
+          case "sahan": case "owner": case "madu": 
+ client.sendMessage(m.chat, { image: { url: 'https://github.com/sahanaya2006/maduwa2006-Profile/blob/main/Picsart_23-01-31_16-42-48-970.jpg?raw=true' }, caption: `Say no more 😌 here is Sahan contact +94720797915 🥱` }, {quoted: m}); 
   
  break; 
         
