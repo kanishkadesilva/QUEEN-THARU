@@ -32,8 +32,6 @@
 
 📌 𝐀𝐅𝐓𝐄𝐑 𝐂𝐋𝐈𝐂𝐊 𝐅𝐎𝐑 𝐘𝐎𝐔𝐑 𝐒𝐈𝐔𝐓𝐀𝐁𝐋𝐄 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌 𝐀𝐍𝐃 𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐇𝐄 𝐁𝐎𝐓.
 
-📍 After deploying the bot some times comes mongodb error then you can take a new mondodb url or my url and put and restart again the bot. then the bot will run.
-
 ### Setup
 
 1.  Fork the repo
