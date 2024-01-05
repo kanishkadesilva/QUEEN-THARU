@@ -1,5 +1,6 @@
+<p align="center">  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=30&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=435&lines=I+am+Queen+Tharu;Multi+Device+Whatsapp+Bot;Developed+by+Kanishka_x" alt="Typing SVG" /></a>
- 
+</p>
  <p align="center">  
   <a href="">
     <img alt="𝐎𝐖𝐋-𝐀𝐈" width="600" height="350" src="https://telegra.ph/file/afa18fd398c209fea95ef.jpg/iI086tX.jpeg">
