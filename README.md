@@ -91,9 +91,6 @@
        ⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ !
 
 
-<h2 align="left">All Credits To malibu thee great</h2>
+## SOCIAL MEDIA
 
-<a href="https://github.com/owlai01"><img src="https://telegra.ph/file/bd6345298eefdf3fdd027.jpg" width="70" height="70" alt="malibu"/></a>
-  
-`malibu`
-
+[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@kanishkadesilva988) [![FaceBook](https://telegra.ph/file/7d9dcbcad846a646f09f0.jpg)](https://www.facebook.com/profile.php?id=100078146263566&mibextid=ZbWKwL) [![Whatsapp](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me//94755975226)
