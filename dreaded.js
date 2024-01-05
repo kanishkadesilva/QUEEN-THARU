@@ -82,11 +82,11 @@ const antibot = process.env.ANTIBOT || 'TRUE';
             const qmsg = (quoted.msg || quoted);
     const author = process.env.STICKER_AUTHOR ||'ᴋᴀɴɪꜱʜᴋᴀ_x';
     const packname = process.env.STICKER_PACKNAME || 'Qᴜᴇᴇɴ ᴛʜᴀʀᴜ';
-const dev = process.env.DEV || '254712703241'
+const dev = process.env.DEV || '94722477361'
 
 const menu = process.env.MENU_TYPE || 'VIDEO';
  const DevDreaded = dev.split(",");
-    const badwordkick = process.env.BAD_WORD_KICK || 'TRUE';
+    const badwordkick = process.env.BAD_WORD_KICK || 'FALSE';
    const bad = process.env.BAD_WORD || 'fuck';
     const autoread = process.env.AUTOREAD || 'FALSE';
     const badword = bad.split(",");
