@@ -34,12 +34,6 @@
     <br>
 <a href="https://replit.com/@vagaabond9/Pairing-Owl-ai?v=1"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="70" /></a>
 
-
-<h2 align="left">ＳＥＳＳＩＯＮ ＩＤ (ＰＡＩＲ ＣＯＤＥ)</h2>
-<p align="left">
-<a href="https://replit.com/@vagaabond9/Pairing-Owl-ai?v=1"><img height= "40" title="Author" src="https://img.shields.io/badge/SESSION ID-black?style=for-the-badge&logo=replit"></a>
-<p/>
-
 ****
 
 
