@@ -24,6 +24,16 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Queen+Tharu" alt="Typing SVG" /></a>
 </p>
 
+## THE THREE STEPS TO MAKE THE BOT
+	
+📌 FIRST FORK THE REPO.
+
+📌 NEXT SCAN THE QR AND TAKE THE SEASSON ID.
+
+📌 AFTER CLICK FOR YOUR SIUTABLE DEPLOYMENT PLATFORM AND DEPLOY THE BOT.
+
+📍 After deploying the bot some times comes mongodb error then you can take a new mondodb url or my url and put and restart again the bot. then the bot will run.
+
 ### Setup
 
 1.  Fork the repo
