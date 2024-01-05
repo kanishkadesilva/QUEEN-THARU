@@ -323,7 +323,7 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
   
 
     if (cmd && !m.isGroup) {
-      console.log(chalk.black(chalk.bgWhite("[ OWL-AI ]")), color(argsLog, "turquoise"), chalk.magenta("From"), chalk.green(pushname), chalk.yellow(`[ ${m.sender.replace("@s.whatsapp.net", "")} ]`));
+      console.log(chalk.black(chalk.bgWhite("[ Queen Tharu ]")), color(argsLog, "turquoise"), chalk.magenta("From"), chalk.green(pushname), chalk.yellow(`[ ${m.sender.replace("@s.whatsapp.net", "")} ]`));
     } else if (cmd && m.isGroup) {
       console.log(
         chalk.black(chalk.bgWhite("[ LOGS ]")),
@@ -347,7 +347,7 @@ let cap = `╭════〘 Qᴜᴇᴇɴ ᴛʜᴀʀᴜ-ᴍᴅ 〙═⊷❍
 ┃𓅓│ 𝗢𝘄𝗻𝗲𝗿 : 𝗞𝗮𝗻𝗶𝘀𝗵𝗸𝗮 𝗗𝗲 𝗦𝗶𝗹𝘃𝗮
 ┃𓅓│ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗼 : wa.me//94722477361
 ┃𓅓│ 𝗥𝗼𝗺 : 27.12𝗚𝗕/1000𝗧𝗕
-┃𓅓│ 𝗣𝗿𝗲𝗳𝗶𝘅 : [.]
+┃𓅓│ 𝗣𝗿𝗲𝗳𝗶𝘅 : [ . ]
 ┃𓅓│ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 : 1.0.0
 ┃𓅓│ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : 𝗞𝗮𝗹𝗶•𝗟𝗶𝗻𝘂𝘅
 ┃𓅓╰────────
@@ -1876,12 +1876,12 @@ case "movie":
  break;
  
           case "kanishka": case "owner": case "tharu": 
- client.sendMessage(m.chat, { image: { url: 'https://github.com/sahanaya2006/maduwa2006-Profile/blob/main/Picsart_23-01-31_16-42-48-970.jpg?raw=true' }, caption: `ඩෝන්ට් Compire ყour ආතල් Aɴᴅ ɱყ ආතල් ყour ආතල් Uberට ආතල් ɱყ ආතල් මට ආතල් ✌️` }, {quoted: m}); 
+ client.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/BGcjWF6/elisa3.jpg?raw=true' }, caption: `ඩෝන්ට් Compire ყour ආතල් Aɴᴅ ɱყ ආතල් ყour ආතල් Uberට ආතල් ɱყ ආතල් මට ආතල් ✌️` }, {quoted: m}); 
   
  break; 
         
        case "script": case "repo": case "sc": 
- client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/1d0fb63c857138f5bee51.jpg' }, caption: `You can deploy this bot using the github link below!\nFork and enjoy our kenyan bot✨.\n\nhttps://github.com/owlai01/Owl-Ai\n\nget your pair code on replit using this link[https://replit.com/@vagaabond9/Pairing-Owl-ai?v=1]\n\nenjoy and have fun 😊 with our bot\n\nMade on Earth by Malibu!` }, {quoted: m}); 
+ client.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/BGcjWF6/elisa3.jpg' }, caption: `You can deploy this bot using the github link below!\nFork and enjoy our Queen Tharu-MD bot✨.\n\nhttps://github.com/kanishkadesilva/Queen-Tharu\n\nget your pair code on replit using this link[https://replit.com/@vagaabond9/Pairing-Owl-ai?v=1]\n\nenjoy and have fun 😊 with our bot\n\nCreated by  Kanishka_x` }, {quoted: m}); 
   
  break
 
@@ -1918,7 +1918,7 @@ case "movie":
              let txt = `</ Dreaded Broadcast >\n\n🀄 Message: ${text}\n\nAuthor: ${pushname}` 
              await client.sendMessage(i, { 
                  image: { 
-                     url: "https://telegra.ph/file/1d0fb63c857138f5bee51.jpg" 
+                     url: "https://i.ibb.co/BGcjWF6/elisa3.jpg" 
                  }, 
                  caption: `${txt}` 
              }) 
