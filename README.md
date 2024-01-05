@@ -26,9 +26,9 @@
 
 ### Setup
 
-1.  Click [FORK] and Setup Config.js
+1.  Fork the repo
     <br>
-<a href="https://github.com/X-S-L-A-S-H-E-R/X-GEN-MD/fork"><img title="Fork" src="https://img.shields.io/badge/FORK HERE-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/kanishkadesilva/Queen-Tharu/fork"><img title="Fork" src="https://img.shields.io/badge/ꜰᴏʀᴋ ɴᴏᴡ-black?style=for-the-badge&logo=github"></a>
 
 2. Get [SESSION-ID] by linking Pair code. `Whatapp>Three dots>Linked Devices>Link with phone number instead`
     <br>
