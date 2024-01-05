@@ -81,6 +81,9 @@ $ npm start
 3. Scan the QR code from the second device. (Go to WhatsApp > Linked Devices > Link a Device) 
 ---------
 
+       ⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ !
+
+
 <h2 align="left">All Credits To malibu thee great</h2>
 
 <a href="https://github.com/owlai01"><img src="https://telegra.ph/file/bd6345298eefdf3fdd027.jpg" width="70" height="70" alt="malibu"/></a>
