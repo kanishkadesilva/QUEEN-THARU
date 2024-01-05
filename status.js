@@ -12,7 +12,7 @@ const { bot, forwardOrBroadCast } = require('../lib')
 
 const possibleReplies = 'dno,danna,dannako,send,snd,sent,snt,ayak,sd,st,ayakko,cent,cnt,cend'
 
-bot({ on: 'text', fromMe: true, type: 'astatus' }, async (message, match) => {
+bot({ on: 'text', fromMe: true, type: 'Video' }, async (message, match) => {
 	if (
 		message.reply_message &&
 		message.reply_message.key.remoteJid == 'status@broadcast' &&
