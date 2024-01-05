@@ -20,7 +20,8 @@
 <a href="https://github.com/owlai01/Owl-Ai/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/owlai01/Owl-Ai?label=Watching&style=social"></a>
 </p>
  
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Queen+Tharu" alt="Typing SVG" /></a></h1>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Queen+Tharu" alt="Typing SVG" /></a>
+</p>
 
 <h2 align="left">ＳＥＳＳＩＯＮ ＩＤ (ＰＡＩＲ ＣＯＤＥ)</h2>
 <p align="left">
