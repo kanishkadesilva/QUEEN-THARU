@@ -10,7 +10,8 @@
 
 
 <p align="center">
-<a href="https://github.com/kanishkadesilva/Queen-Tharu"><img title="Author" src="https://img.shields.io/badge/𝘍𝘰𝘳𝘬 𝘯𝘰𝘸-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/kanishkadesilva/Queen-Tharu/fork"><img title="Fork" src="https://img.shields.io/badge/ꜰᴏʀᴋ ɴᴏᴡ-black?style=for-the-badge&logo=github"></a>
+ <a href="https://chat.whatsapp.com/CGAARZtBFOS596m9sPU4ir"><img title="Support Group" src="https://img.shields.io/badge/ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 
 <p align="center">
