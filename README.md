@@ -51,6 +51,39 @@
       ℹ️ if there any error please infrom it support group.  | මෙහිදී යම් ගැටලුවක් ඇති උවහොත් සහය සමූහය වෙත සම්බන්ධ වන්න.
 
 
+
+### DEPLOY TO HEROKU 
+
+1. 𝙸𝚏 𝚢𝚘𝚞 𝚍𝚘𝚗'𝚝 𝚑𝚊𝚟𝚎 𝚊 𝚊𝚌𝚌𝚘𝚞𝚗𝚝 𝚒𝚗 𝙷𝚎𝚛𝚘𝚔𝚞. 𝙲𝚛𝚎𝚊𝚝𝚎 𝚊𝚗 𝚊𝚌𝚌𝚘𝚞𝚗𝚝.
+    <br>
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+2. 𝙽𝚘𝚠 𝙳𝚎𝚙𝚕𝚘𝚢
+    <br>
+<a href='https://xgenbot.vercel.app/deploy.html' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+### DEPLOY TO REPLIT
+
+5. 𝙸𝚏 𝚢𝚘𝚞 𝚍𝚘𝚗'𝚝 𝚑𝚊𝚟𝚎 𝚊 𝚊𝚌𝚌𝚘𝚞𝚗𝚝 𝚒𝚗 𝚁𝚎𝚙𝚕𝚒𝚝. 𝙲𝚛𝚎𝚊𝚝𝚎 𝚊𝚗 𝚊𝚌𝚌𝚘𝚞𝚗𝚝.
+    <br>
+<a href='https://replit.com/signup' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=replit' width="96.35" height="28"/></a></p>
+
+6. 𝙽𝚘𝚠 𝙳𝚎𝚙𝚕𝚘𝚢
+    <br>
+<a href='https://repl.it/github/X-S-L-A-S-H-E-R/X-GEN-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=replit' width="96.35" height="28"/></a></p>
+
+### DEPLOY TO RAILWAY
+
+7. 𝙸𝚏 𝚢𝚘𝚞 𝚍𝚘𝚗'𝚝 𝚑𝚊𝚟𝚎 𝚊 𝚊𝚌𝚌𝚘𝚞𝚗𝚝 𝚒𝚗 𝚁𝚊𝚒𝚕𝚠𝚊𝚢. 𝙲𝚛𝚎𝚊𝚝𝚎 𝚊𝚗 𝚊𝚌𝚌𝚘𝚞𝚗𝚝.
+    <br>
+<a href='https://railway.app/login' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
+
+8. 𝙽𝚘𝚠 𝙳𝚎𝚙𝚕𝚘𝚢
+    <br>
+<a href='https://railway.app/new/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
+
+---
+
 <h1 align="left">ÐΣPLOY TO HΣЯOKU</h1> 
 
 #### 1. If You don't have an account in Heroku. Create an account.
