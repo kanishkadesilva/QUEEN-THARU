@@ -384,7 +384,7 @@ let cap = `╭════〘 Qᴜᴇᴇɴ ᴛʜᴀʀᴜ-ᴍᴅ 〙═⊷❍
 ┃𓅓│Mix
 ┃𓅓│Ai-img                                                                                                                                                                                                                                                                                     
 ┃𓅓│Gpt
-┃𓅓│Sahan
+┃𓅓│Kanishka
 ┃𓅓│DP
 ┃𓅓│Speed
 ┃𓅓│Alive
@@ -396,7 +396,7 @@ let cap = `╭════〘 Qᴜᴇᴇɴ ᴛʜᴀʀᴜ-ᴍᴅ 〙═⊷❍
 ┃𓅓│Compile-c++
 ┃𓅓│Ping
 ┃𓅓│Owner
-┃𓅓│Madu
+┃𓅓│Tharu
 ┃𓅓│List
 ┃𓅓│system
 ┃𓅓│Mail
@@ -1734,7 +1734,7 @@ case "ping": case "speed": {
 
 case "alive": { 
   
- client.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/BGcjWF6/elisa3.jpg' }, caption: `Hello ${m.pushName}, 𝐎𝐖𝐋 𝐀𝐈 is alive since  ${runtime(process.uptime())}`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
+ client.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/BGcjWF6/elisa3.jpg' }, caption: `Hello ${m.pushName}, Queen Tharu is alive since  ${runtime(process.uptime())}`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
  }
 break;
 case 'apk': {
@@ -1991,7 +1991,7 @@ case "getvar":
         case "gpt": case "gpt": 
           
 
-            if (!text) return reply("Hello am 𝐎𝐖𝐋 an Ai developed by 𝐌𝐚𝐥𝐢𝐛𝐮, how can I help you today?");
+            if (!text) return reply("Hello I am Queen Tharu. Developed by Kanishka_x, How can I help you today?");
 
            const configuration = new Configuration({
 
