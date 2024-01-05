@@ -59,8 +59,10 @@
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 2. 𝙽𝚘𝚠 𝙳𝚎𝚙𝚕𝚘𝚢
-    <br>
-<a href='https://xgenbot.vercel.app/deploy.html' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+    
+◍ Copy This Url, Put Like This <template_link><your_github_link>
+
+      https://heroku.com/deploy?template=
 
 ### DEPLOY TO REPLIT
 
