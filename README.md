@@ -10,7 +10,7 @@
 
 
 <p align="center">
-<a href="https://github.com/kanishkadesilva/Queen-Tharu"><img title="Author" src=https://img.shields.io/badge/Queen Tharu md -black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/kanishkadesilva/Queen-Tharu"><img title="Author" src="https://img.shields.io/badge/𝘍𝘰𝘳𝘬 𝘯𝘰𝘸-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 <p align="center">
