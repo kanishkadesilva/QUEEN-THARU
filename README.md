@@ -24,6 +24,17 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Queen+Tharu" alt="Typing SVG" /></a>
 </p>
 
+### Setup
+
+1.  Click [FORK] and Setup Config.js
+    <br>
+<a href="https://github.com/X-S-L-A-S-H-E-R/X-GEN-MD/fork"><img title="Fork" src="https://img.shields.io/badge/FORK HERE-h?color=black&style=for-the-badge&logo=stackshare"></a>
+
+2. Get [SESSION-ID] by linking Pair code. `Whatapp>Three dots>Linked Devices>Link with phone number instead`
+    <br>
+<a href="https://replit.com/@vagaabond9/Pairing-Owl-ai?v=1"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="70" /></a>
+
+
 <h2 align="left">ＳＥＳＳＩＯＮ ＩＤ (ＰＡＩＲ ＣＯＤＥ)</h2>
 <p align="left">
 <a href="https://replit.com/@vagaabond9/Pairing-Owl-ai?v=1"><img height= "40" title="Author" src="https://img.shields.io/badge/SESSION ID-black?style=for-the-badge&logo=replit"></a>
