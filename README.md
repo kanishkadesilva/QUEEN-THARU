@@ -12,6 +12,7 @@
 <p align="center">
 <a href="https://github.com/kanishkadesilva/Queen-Tharu/fork"><img title="Fork" src="https://img.shields.io/badge/ꜰᴏʀᴋ ɴᴏᴡ-black?style=for-the-badge&logo=github"></a>
  <a href="https://chat.whatsapp.com/CGAARZtBFOS596m9sPU4ir"><img title="Support Group" src="https://img.shields.io/badge/ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://bit.ly/queen-tharu-official"><img title="website" src="https://img.shields.io/badge/ᴏꜰꜰɪᴄɪᴀʟ ᴡᴇʙꜱɪᴛᴇ-black?style=for-the-badge&logo=website"></a>
 <p/>
 
 <p align="center">
