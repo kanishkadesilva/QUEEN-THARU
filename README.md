@@ -23,6 +23,7 @@
  
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Queen+Tharu" alt="Typing SVG" /></a>
 </p>
+[![-----------------------------------------------------]
 
 ## 𝗧𝗛𝗘 𝗧𝗛𝗥𝗘𝗘 𝗘𝗔𝗦𝗬 𝗦𝗧𝗘𝗣𝗦 𝗧𝗢 𝗠𝗔𝗞𝗘 𝗧𝗛𝗘 𝗕𝗢𝗧
 	
@@ -62,22 +63,7 @@
 <p align="left"><a href="https://replit.com/signup"> <img src="https://img.shields.io/badge/replit%20Account-purple?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 
 
-### TERMUX
-1. 
-```sh
-$ pkg upgrade -y && pkg update -y
-$ pkg install git -y
-$ pkg install nodejs -y
-$ pkg install ffmpeg -y
-$ pkg install imagemagick -y
-$ git clone https://github.com/owlai01/Owl-Ai
-$ cd Owl-Ai
-$ npm i 
-$ npm start
-```
-2. Wait for the to start...
-3. Scan the QR code from the second device. (Go to WhatsApp > Linked Devices > Link a Device) 
----------
+
 
        ⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ !
 
