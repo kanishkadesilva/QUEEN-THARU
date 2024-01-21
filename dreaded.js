@@ -1607,7 +1607,7 @@ case 'ytv':
             return `${Math.floor(Math.random() * 10000)}${ext}`;
         };
         if (args.length === 0) {
-            reply(` URL is empty! \nSend ${prefix}ytmp4 url`);
+            reply(`ලින්ක් එකක් දෙන්න මල්ලි! \nSend ${prefix}ytmp4 url`);
             return;
         }
         try {
@@ -1703,7 +1703,7 @@ break;
                 client.sendMessage(
                     from, {
                         video: fs.readFileSync(`./${randomName}`),
-                        caption: `𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐎𝐰𝐥-𝐀𝐈`,
+                        caption: `𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲𝗱 𝗯𝘆 𝗤𝘂𝗲𝗲𝗻-𝗧𝗵𝗮𝗿𝘂`,
                     }, {
                         quoted: m
                     }
@@ -1720,7 +1720,7 @@ break;
 break;                 
 
 case "ping": case "speed": { 
-         m.reply (`𓅓𝓟𝓸𝓷𝓰...! ${dreadedspeed.toFixed(4)} 𝓶𝓼`); 
+         m.reply (`♔𝓟𝓸𝓷𝓰...! ${dreadedspeed.toFixed(4)} 𝓶𝓼`); 
          } 
  break; 
   
@@ -1822,7 +1822,7 @@ client.sendMessage(from, buttonMessage, { quoted: m })
    fs.unlinkSync(media); 
    if (err) throw err 
    let buffer = fs.readFileSync(mokaya); 
-   client.sendMessage(m.chat, { image: buffer, caption: `Converted by Owl ai! 🦄`}, { quoted: m }) 
+   client.sendMessage(m.chat, { image: buffer, caption: `𝗖𝗼𝗻𝘃𝗲𝗿𝘁𝗲𝗱 𝗯𝘆 𝗤𝘂𝗲𝗲𝗻 𝗧𝗵𝗮𝗿𝘂 𝗺𝗱 ♔`}, { quoted: m }) 
    fs.unlinkSync(mokaya); 
     }); 
     } 
@@ -1873,7 +1873,7 @@ case "movie":
  break;
  
           case "kanishka": case "owner": case "tharu": 
- client.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/BGcjWF6/elisa3.jpg?raw=true' }, caption: `ඩෝන්ට් Compire ყour ආතල් Aɴᴅ ɱყ ආතල් ყour ආතල් Uberට ආතල් ɱყ ආතල් මට ආතල් ✌️` }, {quoted: m}); 
+ client.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/BGcjWF6/elisa3.jpg?raw=true' }, caption: `https://wa.me//94722477361?text=𝗤𝘂𝗲𝗲𝗻_𝗧𝗵𝗮𝗿𝘂_𝗺𝗱` }, {quoted: m}); 
   
  break; 
         
