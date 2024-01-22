@@ -1,7 +1,7 @@
 { 
-   "name": "OWL-AI", 
+   "name": "QUEEN-THARU", 
    "version": "2.0.0", 
-   "description": "WhatsApp Multi Device Bot", 
+   "description": "Multi Device Whatsapp Bot", 
    "main": "index.js", 
    "type": "commonjs", 
    "scripts": { 
@@ -69,10 +69,10 @@
    }, 
    "repository": { 
      "type": "git", 
-     "url": "git+https://github.com/Fortunatusmokaya/DREADED-AI.git" 
+     "url": "git+https://github.com/kanishkadesilva/Queen-Tharu.git" 
    }, 
    "bugs": { 
-     "url": "https://github.com/Fortunatusmokaya/DREADED-AI/issues" 
+     "url": "https://github.com/kanishkadesilva/Queen-Tharu/issues" 
    }, 
-   "homepage": "https://github.com/Fortunatusmokaya/DREADED-AI#readme" 
+   "homepage": "https://github.com/kanishkadesilva/Queen-Tharu#readme" 
  }
